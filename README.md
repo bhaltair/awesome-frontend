@@ -20,3 +20,8 @@ collect awesome frontend github repo
 
 ## webpack
 [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack)
+
+
+## pwa
+1. https://github.com/hemanth/awesome-pwa  Useful resources for creating Progressive Web Apps
+2. https://github.com/sundway/awesome-pwa
