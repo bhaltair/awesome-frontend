@@ -4,21 +4,21 @@ collect awesome frontend github repo
 
 ## Vue
 
-1. [awesome-vue](https://github.com/vuejs/awesome-vue)
+- [awesome-vue](https://github.com/vuejs/awesome-vue)
 
 ## wechat app
 
-1. [awesome-github-wechat-weapp](https://github.com/bhaltair/awesome-github-wechat-weapp)
+- [awesome-github-wechat-weapp](https://github.com/bhaltair/awesome-github-wechat-weapp)
 
 ## js
 
-1. https://github.com/sorrycc/awesome-javascript
-2. https://github.com/jobbole/awesome-javascript-cn
+- https://github.com/sorrycc/awesome-javascript
+- https://github.com/jobbole/awesome-javascript-cn
 
 
 ## css
 
-1. https://github.com/sotayamashita/awesome-css
+- https://github.com/sotayamashita/awesome-css
 
 ## express
 
@@ -27,14 +27,14 @@ collect awesome frontend github repo
 
 ## node
 
-1. https://github.com/sindresorhus/awesome-nodejs
+- https://github.com/sindresorhus/awesome-nodejs
   - 推荐
 
 
 ## npm
 
-1. https://github.com/sindresorhus/awesome-npm 
-2. https://github.com/dongtong/awesome_npms
+- https://github.com/sindresorhus/awesome-npm 
+- https://github.com/dongtong/awesome_npms
   - 收集一些质量相对较高，在项目中经常使用到的npm包。
 
 
@@ -48,5 +48,7 @@ collect awesome frontend github repo
 
 
 ## pwa
-1. https://github.com/hemanth/awesome-pwa  Useful resources for creating Progressive Web Apps
-2. https://github.com/sundway/awesome-pwa
+
+- https://github.com/hemanth/awesome-pwa
+  - Useful resources for creating Progressive Web Apps
+- https://github.com/sundway/awesome-pwa
